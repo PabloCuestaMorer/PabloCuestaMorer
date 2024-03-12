@@ -9,12 +9,14 @@
   
 </div>
 <div align="center">
+  <img src="https://profile-counter.glitch.me/PabloCuestaMorer/count.svg?"  />
+</div>
+<div align="center">
+  
   <a href="[/link/to/site](https://tryhackme.com/p/Bl0star)"><img src="https://tryhackme-badges.s3.amazonaws.com/Bl0star.png" height="60" alt="tryhackme profile" /></a>
 </div>
 
 ###
-
-
 
 ###
 
@@ -31,8 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
-
-
 
 ###
 

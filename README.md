@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="[/link/to/site](https://tryhackme.com/p/Bl0star)"><img src="https://tryhackme-badges.s3.amazonaws.com/Bl0star.png" height="60" alt="tryhackme profile" /></a>
+  <a href="![Tryhackme profile](https://tryhackme.com/p/Bl0star)"><img src="https://tryhackme-badges.s3.amazonaws.com/Bl0star.png" height="60" alt="tryhackme profile" /></a>
 </div>
 
 ###

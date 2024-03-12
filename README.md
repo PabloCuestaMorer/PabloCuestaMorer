@@ -8,11 +8,8 @@
   <img src="https://streak-stats.demolab.com?user=PabloCuestaMorer&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   
 </div>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PabloCuestaMorer/count.svg?"  />
-</div>
-<div align="center">
-  
   <a href="[/link/to/site](https://tryhackme.com/p/Bl0star)"><img src="https://tryhackme-badges.s3.amazonaws.com/Bl0star.png" height="60" alt="tryhackme profile" /></a>
 </div>
 
@@ -37,7 +34,11 @@
 ###
 
 <br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PabloCuestaMorer/count.svg?"  />
 
+   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1149846014&count=3)](https://open.spotify.com/user/1149846014)
+</div>
 <img src="https://raw.githubusercontent.com/PabloCuestaMorer/PabloCuestaMorer/output/snake.svg" alt="Snake animation" />
 
 ###

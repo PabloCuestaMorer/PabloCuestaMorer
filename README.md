@@ -37,10 +37,9 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PabloCuestaMorer/count.svg?"  />
-
-   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1149846014&count=3)](https://open.spotify.com/user/1149846014)
+  <img src="https://profile-counter.glitch.me/PabloCuestaMorer/count.svg?"/>
+  <img src="https://raw.githubusercontent.com/PabloCuestaMorer/PabloCuestaMorer/output/snake.svg" alt="Snake animation" />
 </div>
-<img src="https://raw.githubusercontent.com/PabloCuestaMorer/PabloCuestaMorer/output/snake.svg" alt="Snake animation" />
+
 
 ###

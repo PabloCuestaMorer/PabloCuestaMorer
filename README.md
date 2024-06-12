@@ -9,12 +9,6 @@
   
 </div>
 
-<div align="center">
-  
-  [![Tryhackme profile](https://tryhackme-badges.s3.amazonaws.com/Bl0star.png)](https://tryhackme.com/p/Bl0star)
-  
-</div>
-
 ###
 
 ###
